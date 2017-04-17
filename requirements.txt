@@ -1,9 +1,10 @@
 dj-database-url==0.4.2
+dj-static==0.0.6
 Django==1.10.5
 django-ckeditor==5.2.1
 django-grappelli==2.9.1
 gunicorn==19.7.1
 jieba==0.38
-packaging==16.8
 Pillow==4.0.0
 psycopg2==2.7.1
+static3==0.7.0
