@@ -4,3 +4,4 @@ django-grappelli==2.9.1
 gunicorn==19.7.1
 jieba==0.38
 Pillow==4.0.0
+dj-database-url=0.4.2
