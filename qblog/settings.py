@@ -128,12 +128,12 @@ STATIC_URL = '/static/'
 
 # Extra places for collectstatic to find static files.
 STATICFILES_DIRS = (
-    os.path.join(PROJECT_ROOT, 'static'),
+    os.path.join(PROJECT_ROOT, '../blog/static'),
 )
 
 # grappelli setting
 
-GRAPPELLI_ADMIN_TITLE = "Gao's Blog"
+GRAPPELLI_ADMIN_TITLE = "Gao Mi's Blog"
 
 # ckeditor configuration
 
