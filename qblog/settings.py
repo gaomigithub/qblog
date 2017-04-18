@@ -218,3 +218,5 @@ WEB_INFO = {
     'github': 'https://github.com/gaomigithub',
     'email': 'gaomibuy@hotmail.com'
 }
+
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
